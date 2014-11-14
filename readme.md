@@ -15,3 +15,5 @@ Tutorial of Analyzing data in Python. Some of the topics include:
 * using R and Javascript in Python/Pandas
 
 * obtaining and working with civic data
+
+[Link to all data science lessons](http://nbviewer.ipython.org/github/pkafei/Data-Science-in-Python/tree/master/tutorial/)
