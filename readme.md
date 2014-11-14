@@ -2,7 +2,7 @@
 
 Tutorial of Analyzing data in Python. Some of the topics include:
 
-* exploratory statistics
+* descriptive statistics and exploratory data analysis
 
 * common data cleaning operations
 
